@@ -1,0 +1,10 @@
+.heading{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.weather-card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
